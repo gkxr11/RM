@@ -1,0 +1,22 @@
+# 操作系统生成的文件
+.DS_Store              # macOS 桌面服务存储的元数据
+Thumbs.db              # Windows 缩略图缓存
+ehthumbs.db            # Windows 资源管理器缓存
+Desktop.ini            # Windows 文件夹配置文件
+
+# 编辑器/IDE 配置文件
+.idea/                 # IntelliJ/Android Studio 项目文件
+.vscode/               # VS Code 配置
+*.swp                  # Vim 交换文件
+*.swo                  # Vim 交换文件（写入中）
+*.suo                  # Visual Studio 解决方案用户选项
+*.ntvs*                # Visual Studio 相关文件
+*.njsproj              # Visual Studio 相关文件
+*.sln                  # 解决方案文件（可选，若多人协作可能需要提交）
+*.user                 # Visual Studio 用户配置
+
+# 临时文件和日志
+tmp/                   # 临时目录
+logs/                  # 日志目录
+*.log                  # 日志文件
+*.tmp                  # 临时文件
